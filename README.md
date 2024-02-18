@@ -19,11 +19,11 @@
 
 - ⚡ Fun fact **You can cut a pie into eight pieces with only three cuts 🥧**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akul-arun-43b208238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akul-arun-43b208238" height="30" width="40" /></a>
-<a href="https://instagram.com/akul4lyfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akul4lyfe" height="30" width="40" /></a>
-<a href="https://medium.com/@curiousitykillsakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@curiousitykillsakul" height="30" width="40" /></a>
+<h2 align="center">🤝 Connect with me 🤝</h2>
+<p align="center">
+<a href="https://linkedin.com/in/akul-arun-43b208238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akul-arun-43b208238" height="40" width="40" /></a>
+<a href="https://instagram.com/akul4lyfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akul4lyfe" height="40" width="40" /></a>
+<a href="https://medium.com/@curiousitykillsakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@curiousitykillsakul" height="40" width="40" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
