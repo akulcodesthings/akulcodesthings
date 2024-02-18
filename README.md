@@ -1,6 +1,8 @@
 ![logo](https://github.com/akulcodesthings/akulcodesthings/blob/main/To-my-Github.gif)
 
-<h1 align="center">Hi 👋, I'm Akul Arun</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akul+Arun!;" />
+</h1>
 <h3 align="center">A Passionate Data Science Student Interested in Anything and Everything Related to Data Science</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl1aTM0NzFqd2lmeWY3NGw3Y3owZ3gzeDdnNDhmZmpydWtlMjM2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
