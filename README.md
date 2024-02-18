@@ -1,4 +1,5 @@
-![logo](https://github.com/akulcodesthings/akulcodesthings/blob/main/cyberpunk_image_2.png)
+![logo](https://github.com/akulcodesthings/akulcodesthings/blob/main/To-my-Github.gif)
+
 <h1 align="center">Hi 👋, I'm Akul Arun</h1>
 <h3 align="center">A Passionate Data Science Student Interested in Anything and Everything Related to Data Science</h3>
 
